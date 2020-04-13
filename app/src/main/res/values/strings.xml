@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">List</string>
+    <string name="enter_item">Enter Item</string>
+    <string name="hint_item">Item Name</string>
+    <string name="hint_qty">Item Quantity</string>
+    <string name="hint_price">Price in Rupee</string>
+    <string name="hint_note">Note</string>
+    <string name="save_button">Add</string>
+    <string name="sure_text">Are You Sure ?</string>
+    <string name="no_text">No</string>
+    <string name="yes_text">No</string>
+    <string name="update_text">Update</string>
+    <string name="edit_time">Edit Item</string>
+    <string name="yes">Yes</string>
+</resources>
